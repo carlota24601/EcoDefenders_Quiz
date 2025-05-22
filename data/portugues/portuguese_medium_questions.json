@@ -1,0 +1,114 @@
+{
+  "medium": [
+    {
+      "question": "Qual das seguintes práticas é a maior responsável pela degradação das florestas tropicais?",
+      "options": [
+        "Desmatamento para produção agropecuária em larga escala",
+        "Turismo ecológico mal planejado",
+        "Crescimento natural das árvores que leva à competição"
+      ],
+      "answer": "Desmatamento para produção agropecuária em larga escala",
+      "points": 3,
+      "explanation": "Explicação: A produção agropecuária em larga escala, especialmente para criação de gado e monoplantações, é a principal causa da degradação das florestas tropicais. Turismo mal planejado pode causar impactos locais, mas neste caso a opção A é a correta devido ao maior impacto que causa."
+    },
+    {
+      "question": "Qual é o impacto da fragmentação do habitat sobre espécies selvagens?",
+      "options": [
+        "Melhora a diversidade genética",
+        "Facilita o deslocamento dos animais",
+        "Isola populações, dificultando a reprodução e sobrevivência"
+      ],
+      "answer": "Isola populações, dificultando a reprodução e sobrevivência",
+      "points": 3,
+      "explanation": "Explicação: Fragmentar o habitat cria “ilhas” de população isoladas, o que reduz a diversidade genética e a capacidade de sobrevivência das espécies. Com menor diversidade genética, há menor capacidade de adaptação das espécies."
+    },
+    {
+      "question": "Por que a vaquita-marinha (Phocoena sinus) é considerada o mamífero marinho mais ameaçado do mundo?",
+      "options": [
+        "Porque se alimenta de peixes raros",
+        "Devido à captura acidental em redes de pesca ilegais",
+        "Por ser territorial"
+      ],
+      "answer": "Devido à captura acidental em redes de pesca ilegais",
+      "points": 3,
+      "explanation": "Explicação: A vaquita é uma espécie raríssima de toninha endêmica do norte do Golfo da Califórnia e detém o título de cetáceo mais ameaçado do mundo. Está listada como Criticamente em Perigo desde 1996. O principal fator que levou ao seu declínio é a captura acidental em redes ilegais usadas para pescar outros peixes, colocando a espécie à beira da extinção. Com base em dados mais recentes (2018), estimativas acústicas indicaram um número de indivíduos entre 6 a 22."
+    },
+    {
+      "question": "Como as mudanças climáticas pode afetar a distribuição das espécies?",
+      "options": [
+        "Pode deslocar espécies para novas áreas com temperaturas favoráveis",
+        "Nenhuma alteração significativa",
+        "Aumenta o tamanho dos animais"
+      ],
+      "answer": "Pode deslocar espécies para novas áreas com temperaturas favoráveis",
+      "points": 3,
+      "explanation": "Explicação: Com as mudanças climáticas, muitas espécies precisam migrar para áreas com condições mais favoráveis à sua sobrevivência, podendo causar conflitos com as espécies nativas por recursos e território."
+    },
+    {
+      "question": "Qual destes animais vive no oceano e confunde o seu alimento natural, alforrecas, por sacos de plástico?",
+      "options": [
+        "Tartaruga-marinha (Cheloniidae)",
+        "Peixe-palhaço (Amphiprion ocellaris)",
+        "Polvo-comum (Octopus vulgaris)"
+      ],
+      "answer": "Tartaruga-marinha (Cheloniidae)",
+      "points": 3,
+      "explanation": "Explicação: A Tartaruga-marinha (família Cheloniidae) inclui sete espécies que habitam mares tropicais e subtropicais em todo o mundo, todas ameaçadas de extinção. Estas tartarugas frequentemente confundem sacos de plásticos com alforrecas, que são o seu alimento natural. Essa confusão ocorre devido à transparência e forma semelhantes entre os sacos de plástico e as alforrecas. A ingestão de plástico pode levar à morte, pois a tartaruga não consegue regurgitá-lo. A poluição oceânica representa uma ameaça séria para a vida marinha."
+    },
+    {
+      "question": "Por que a diversidade genética é importante para a sobrevivência das espécies?",
+      "options": [
+        "Evita a competição entre indivíduos",
+        "Permite maior adaptação a mudanças dos ecossistemas",
+        "Facilita a migração entre habitats"
+      ],
+      "answer": "Permite maior adaptação a mudanças dos ecossistemas",
+      "points": 3,
+      "explanation": "Explicação: Maior diversidade genética aumenta as chances de que populações sobrevivam a doenças, mudanças climáticas ou outras ameaças ambientais."
+    },
+    {
+      "question": "Qual é a importância das áreas marinhas protegidas (AMPs)?",
+      "options": [
+        "São áreas onde a pesca é intensificada",
+        "São zonas exclusivas para turismo e lazer",
+        "Protegem habitats e espécies marinhas para garantir a sustentabilidade "
+      ],
+      "answer": "Protegem habitats e espécies marinhas para garantir a sustentabilidade ",
+      "points": 3,
+      "explanation": "Explicação: As AMPs são ferramentas eficazes na conservação da biodiversidade marinha, contribuindo ainda para a sustentabilidade das pescarias e das comunidades costeiras."
+    },
+    {
+      "question": "Qual é uma das principais ações para conservar o lobo-ibérico (Canis lupus signatus) em Portugal?",
+      "options": [
+        "Educação ambiental e criação de corredores ecológicos",
+        "Construir cercas para impedir sua movimentação",
+        "Caça controlada para reduzir populações"
+      ],
+      "answer": "Educação ambiental e criação de corredores ecológicos",
+      "points": 3,
+      "explanation": "Explicação: A educação ambiental ajuda a reduzir conflitos entre lobos e humanos, enquanto corredores ecológicos conectam áreas protegidas, facilitando movimento e reprodução, essenciais para a conservação do lobo-ibérico. Outras medidas importantes incluem o uso de cães de pastoreio para proteger o gado e zonas habitadas, evitando ataques, bem como a redução da caça, especialmente de presas naturais do lobo, garantindo a manutenção do seu alimento na natureza."
+    },
+    {
+      "question": "Qual tipo de espécie geralmente se adapta melhor a variações grandes de temperatura?",
+      "options": [
+        "Espécies de ambientes temperados, que enfrentam variações sazonais de temperatura",
+        "Espécies tropicais, que vivem em ambientes com temperatura constante",
+        "Ambas se adaptam igualmente bem a variações de temperatura"
+      ],
+      "answer": "Espécies de ambientes temperados, que enfrentam variações sazonais de temperatura",
+      "points": 3,
+      "explanation": "Explicação: Espécies de ambientes temperados evoluíram para lidar com variações sazonais significativas (verões quentes e invernos frios), desenvolvendo mecanismos para sobreviver a essas mudanças. Já as tropicais vivem em climas mais estáveis e tendem a ser mais sensíveis a mudanças bruscas de temperatura."
+    },
+    {
+      "question": "Qual das seguintes ameaças tem um grande impacto nas espécies nativas da Austrália?",
+      "options": [
+        "Crescimento natural da população de coalas",
+        "Porque os habitats australianos são naturalmente instáveis e pouco diversos",
+        "Introdução de espécies invasoras como o coelho e o camundongo"
+      ],
+      "answer": "Introdução de espécies invasoras como o coelho e o camundongo",
+      "points": 3,
+      "explanation": "Explicação: A introdução de espécies invasoras, como coelhos, raposas e camundongos, causou grandes danos aos ecossistemas australianos, competindo com as espécies nativas por recursos e predando-as, contribuindo para a perda de biodiversidade."
+    }
+  ]
+}

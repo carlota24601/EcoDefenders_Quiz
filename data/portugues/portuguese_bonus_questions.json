@@ -1,0 +1,37 @@
+{
+  "bonus": [
+    {
+      "question": "O que significa dizer que uma espécie está “funcionalmente extinta”?",
+      "options": [
+        "Ainda existe em grande número, mas mudou de habitat",
+        "Está extinta localmente, mas presente noutros continentes",
+        "Ainda existem alguns indivíduos vivos, mas já não conseguem sustentar a população"
+      ],
+      "answer": "Ainda existem alguns indivíduos vivos, mas já não conseguem sustentar a população",
+      "points": 10,
+      "explanation": "Explicação: Uma espécie funcionalmente extinta é aquela que ainda pode ter alguns indivíduos vivos, mas a população é tão reduzida que já não cumpre seu papel ecológico ou não tem viabilidade reprodutiva suficiente para se recuperar naturalmente. Um exemplo é o rinoceronte-branco-do-norte: existem apenas dois indivíduos vivos, ambas fêmeas, tornando impossível a reprodução natural."
+    },
+    {
+      "question": "Quantas espécies estima-se que foram extintas desde o aparecimento do Homo sapiens?",
+      "options": [
+        "Cerca de 100 espécies",
+        "Cerca de 1 milhão de espécies",
+        "Cerca de 1.000 espécies"
+      ],
+      "answer": "Cerca de 1 milhão de espécies",
+      "points": 10,
+      "explanation": "Explicação: Desde o surgimento do Homo sapiens, a atividade humana tem acelerado significativamente a taxa de extinção. Estima-se que cerca de 1 milhão de espécies já tenham sido extintas — muitas sem sequer terem sido descobertas ou catalogadas. As principais causas são a destruição de habitats, poluição, mudanças climáticas, espécies invasoras e exploração excessiva. A seguir, alguns exemplos de espécies extintas pela ação humana: Dodô (Raphus cucullatus) – Extinto no século XVII devido à caça intensiva e à introdução de espécies invasoras. Lobo-da-Tasmânia (Thylacinus cynocephalus) – Extinto no século XX por perseguição humana e perda de habitat. ʻŌʻō-de-Kauaʻi (Moho braccatus) – Ave extinta por destruição do habitat e doenças transmitidas por mosquitos introduzidos."
+    },
+    {
+      "question": "Quantas extinções em massa conhecidas ocorreram na história da Terra, e o que se considera atualmente?",
+      "options": [
+        "5 grandes extinções, e uma sexta atualmente em curso",
+        "2 grandes extinções",
+        "6 grandes extinções, sem risco de uma nova"
+      ],
+      "answer": "5 grandes extinções, e uma sexta atualmente em curso",
+      "points": 10,
+      "explanation": "Explicação: Estima-se que a Terra já passou por cinco grandes extinções em massa, que eliminaram uma enorme quantidade de espécies num curto tempo geológico. Hoje, muitos cientistas consideram que estamos na sexta extinção em massa, causada por atividades humanas como destruição de habitats, mudanças climáticas e poluição. As cinco anteriores foram: 1) Ordovícico-Silúrico (~443 M.a.), 2) Devoniano Superior (~372 M.a.), 3) Permiano-Triássico (~252 M.a.), 4) Triássico-Jurássico (~201 M.a.), 5) Cretáceo-Paleógeno (~66 M.a.)."
+    }
+  ]
+}

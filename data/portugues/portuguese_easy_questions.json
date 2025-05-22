@@ -1,0 +1,114 @@
+{
+  "easy": [
+    {
+      "question": "O que significa dizer que uma espécie está em vias de extinção?",
+      "options": [
+        "Que tem uma grande população",
+        "Que está muito bem-adaptada ao seu ecossistema",
+        "Que corre risco de desaparecer para sempre"
+      ],
+      "answer": "Que corre risco de desaparecer para sempre",
+      "points": 2,
+      "explanation": "Explicação: Uma espécie em vias de extinção significa que a sua população tem um número baixo de indivíduos, estando ameaçada e correndo risco de desaparecer completamente da natureza, caso não sejam tomadas medidas para a proteger. As causas podem ser humanas ou naturais."
+    },
+    {
+      "question": "Qual é uma das principais causas da extinção de espécies nos dias de hoje?",
+      "options": [
+        "Construção de abrigos para animais",
+        "Destruição do habitat",
+        "Plantação de árvores autóctones (nativas de um ecossistema)"
+      ],
+      "answer": "Destruição do habitat",
+      "points": 2,
+      "explanation": "Explicação: A destruição de habitats — como florestas, oceanos e savanas — impede, por exemplo, que os animais encontrem alimento e abrigo, o que pode levar ao seu desaparecimento."
+    },
+    {
+      "question": "O que podemos fazer para ajudar as espécies ameaçadas?",
+      "options": [
+        "Apoiar reservas e projetos de conservação",
+        "Comprar produtos ilegais de animais",
+        "Deitar lixo para os rios em vez de usar os sítios corretos como contentores do lixo"
+      ],
+      "answer": "Apoiar reservas e projetos de conservação",
+      "points": 2,
+      "explanation": "Explicação: Apoiar projetos de conservação, como reservas naturais e organizações de proteção da fauna, é uma das melhores formas de ajudar espécies ameaçadas a sobreviver."
+    },
+    {
+      "question": "O que é uma espécie invasora?",
+      "options": [
+        "Uma espécie nativa de uma região",
+        "Uma espécie que ajuda na polinização",
+        "Uma espécie introduzida que causa danos ao ecossistema local"
+      ],
+      "answer": "Uma espécie introduzida que causa danos ao ecossistema local",
+      "points": 2,
+      "explanation": "Explicação: Espécies invasoras são organismos não naturais de um dado ecossistema que, ao se conseguirem adaptar, são prejudiciais ao ambiente, entrando em competição por recursos e espaço com as espécies locais, podendo levar ao desequilíbrio da fauna e flora local."
+    },
+    {
+      "question": "O panda-gigante (Ailuropoda melanoleuca) já foi considerado uma espécie em risco de extinção. Hoje é classificado como:",
+      "options": [
+        "Extinto",
+        "Vulnerável",
+        "Doméstico"
+      ],
+      "answer": "Vulnerável",
+      "points": 2,
+      "explanation": "Explicação: A baixa taxa de natalidade, a alta taxa de mortalidade infantil e a destruição do seu ambiente natural colocam o panda sob ameaça. Graças a programas de conservação e às rígidas leis chinesas que proíbem a caça, o panda-gigante deixou de estar “em perigo” para “vulnerável”, mas ainda precisa de proteção."
+    },
+    {
+      "question": "Qual é o principal motivo da diminuição das populações de abelhas?",
+      "options": [
+        "Excesso de flores",
+        "Uso de pesticidas",
+        "Demasiado mel produzido"
+      ],
+      "answer": "Uso de pesticidas",
+      "points": 2,
+      "explanation": "Explicação: O uso excessivo de pesticidas prejudica a saúde das abelhas, que são essenciais para o planeta. Desempenham um papel crucial na polinização das plantas, fundamental para a produção de alimentos e a manutenção da biodiversidade. Cerca de 75% dos alimentos dependem da polinização animal, e a sua extinção poderia ter consequências devastadoras para a humanidade."
+    },
+    {
+      "question": "O que significa a sigla \"CITES\", relacionada à proteção de espécies?",
+      "options": [
+        "Convenção sobre o Comércio Internacional das Espécies da Fauna e Flora Selvagens Ameaçadas de Extinção",
+        "Comitê Internacional para Turismo Ecológico",
+        "Centro de Informação de Tecnologia Ecológica"
+      ],
+      "answer": "Convenção sobre o Comércio Internacional das Espécies da Fauna e Flora Selvagens Ameaçadas de Extinção",
+      "points": 2,
+      "explanation": "Explicação: A CITES, também conhecida por Convenção de Washington, é um acordo multilateral assinado em Washington D.C., Estados Unidos, a 3 de março de 1973, que regula o comércio de espécies exóticas por vezes ameaçadas, para protegê-las da extinção."
+    },
+    {
+      "question": "Qual destes animais pode estar ameaçado devido à poluição sonora?",
+      "options": [
+        "Morcego-de-orelhas-grandes (Myotis myotis)",
+        "Coelho-europeu (Oryctolagus cuniculus)",
+        "Camaleão-pantera (Furcifer pardalis)"
+      ],
+      "answer": "Morcego-de-orelhas-grandes (Myotis myotis)",
+      "points": 2,
+      "explanation": "Explicação: Ecolocalização é quando um animal emite um som, escuta o eco que volta e assim sabe onde estão as coisas ao seu redor, mesmo no escuro. Morcegos usam ecolocalização para se orientar; ruídos altos podem atrapalhar sua navegação e caça."
+    },
+    {
+      "question": "Qual destes animais é um símbolo da luta contra a extinção no Brasil e inspirou o filme “Rio”?",
+      "options": [
+        "Arara-azul (Anodorhynchus hyacinthinus)",
+        "Cavalo (Equus ferus caballus)",
+        "Leão (Panthera leo)"
+      ],
+      "answer": "Arara-azul (Anodorhynchus hyacinthinus)",
+      "points": 2,
+      "explanation": "Explicação: A arara-azul é um dos símbolos brasileiros mais conhecidos na conservação de espécies ameaçadas. É uma ave emblemática do Brasil, cuja história inspirou o filme “Rio”."
+    },
+    {
+      "question": "O lince-ibérico (Lynx pardinus) é considerado uma espécie:",
+      "options": [
+        "Vulnerável",
+        "Comum em todo o mundo",
+        "Domesticada"
+      ],
+      "answer": "Vulnerável",
+      "points": 2,
+      "explanation": "Explicação: O lince-ibérico foi uma espécie em perigo crítico até 2015, quando contava com poucas centenas de indivíduos, e até 2024 foi considerada uma espécie em perigo. Numa tentativa de salvar esta espécie da extinção, teve início o projeto europeu de Vida Natural, que inclui a preservação do habitat, monitorização da população do lince, gestão das populações de coelho, programas de reprodução em cativeiro e programas de reintrodução. Em 2024, a população aumentou para 2 021 espécimes, levando à sua reclassificação de espécie em perigo para espécie vulnerável."
+    }
+  ]
+}

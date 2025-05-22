@@ -1,0 +1,114 @@
+{
+  "hard": [
+    {
+      "question": "Qual é a função ecológica de predadores de topo e o impacto da sua extinção?",
+      "options": [
+        "Garantir a reprodução das presas",
+        "Promover equilíbrio trófico e controle de populações ",
+        "Aumentar a produtividade primária"
+      ],
+      "answer": "Promover equilíbrio trófico e controle de populações ",
+      "points": 4,
+      "explanation": "Explicação:Predadores de topo, como lobos ou grandes felinos, têm papel crucial no controle das populações de herbívoros e mesopredadores, evitando sobrepastoreio, desequilíbrios tróficos e até mudanças na estrutura do ecossistema. A sua ausência pode desencadear cascatas ecológicas negativas."
+    },
+    {
+      "question": "Qual é o efeito da hibridização entre espécies nativas e espécies invasoras selvagens ou animais domésticos?",
+      "options": [
+        "Sempre aumenta a diversidade genética da população nativa",
+        "Não causa impacto na população nativa",
+        "Pode levar à perda da identidade genética da espécie nativa"
+      ],
+      "answer": "Pode levar à perda da identidade genética da espécie nativa",
+      "points": 4,
+      "explanation": "Explicação:A hibridização entre espécies nativas e espécies invasoras selvagens ou animais domésticos pode resultar em introgressão genética, o que ameaça a integridade das populações nativas. Essa mistura pode levar à perda da identidade genética da espécie nativa, reduzir sua adaptação ao ambiente e até causar a extinção genética. Em alguns casos, podem surgir novas linhagens híbridas, mas frequentemente isso ocorre à custa da diversidade e originalidade das espécies locais."
+    },
+    {
+      "question": "Por que algumas espécies de répteis estão em risco devido a alterações na temperatura ambiente?",
+      "options": [
+        "Temperaturas mais altas aumentam sua taxa de reprodução",
+        "A temperatura influencia a determinação do sexo dos bebes, podendo desequilibrar populações",
+        "Répteis migram para áreas mais frias e enfrentam mais predadores"
+      ],
+      "answer": "A temperatura influencia a determinação do sexo dos bebes, podendo desequilibrar populações",
+      "points": 4,
+      "explanation": "Explicação:Em várias espécies de répteis, a temperatura durante a incubação dos ovos determina o sexo, e mudanças podem levar a populações com sexos desproporcionais. Um exemplo clássico de espécie de réptil cuja determinação do sexo depende da temperatura é a tartaruga-de-pente (Eretmochelys imbricata). Temperaturas mais altas tendem a produzir mais fêmeas, enquanto temperaturas mais baixas geram mais machos. Com o aumento da temperatura ambiente causado pelas mudanças climáticas, pode haver um desequilíbrio na proporção sexual, ameaçando a sobrevivência da população a longo prazo."
+    },
+    {
+      "question": "Qual é o principal impacto da bioacumulação de contaminantes nos níveis tróficos superiores?",
+      "options": [
+        "Contaminantes são eliminados rapidamente pelas espécies superiores",
+        "Contaminantes se acumulam e biomagnificam, causando efeitos tóxicos severos",
+        "Contaminantes diminuem de concentração conforme sobem na cadeia alimentar"
+      ],
+      "answer": "Contaminantes se acumulam e biomagnificam, causando efeitos tóxicos severos",
+      "points": 4,
+      "explanation": "Explicação:Substâncias tóxicas, como metais pesados e pesticidas, acumulam-se nos organismos ao longo da cadeia alimentar. Nos níveis tróficos superiores — os predadores no topo da cadeia — esses contaminantes atingem concentrações muito maiores, em um processo chamado biomagnificação. Isso pode causar danos graves à saúde e à reprodução desses animais. Os seres humanos, como predadores no topo da cadeia alimentar, também podem ser afetados, já que consumimos muitos desses organismos contaminados."
+    },
+    {
+      "question": "O que caracteriza a estratégia de vida K em espécies animais?",
+      "options": [
+        "Alta taxa de reprodução com muitos filhotes e baixa sobrevivência",
+        "Baixa taxa de reprodução com poucos filhotes e alto cuidado parental",
+        "Nenhuma relação com a reprodução"
+      ],
+      "answer": "Baixa taxa de reprodução com poucos filhotes e alto cuidado parental",
+      "points": 4,
+      "explanation": "Explicação:Espécies com estratégia K tendem a produzir poucos descendentes, mas investem em cuidado parental, favorecendo maior sobrevivência dos filhotes, comum em mamíferos e aves."
+    },
+    {
+      "question": "Como a acidificação dos oceanos afeta a biodiversidade marinha?",
+      "options": [
+        "Estimula o crescimento de corais",
+        "Aumenta a calcificação dos organismos",
+        "Dificulta a formação de conchas e esqueletos calcários"
+      ],
+      "answer": "Dificulta a formação de conchas e esqueletos calcários",
+      "points": 4,
+      "explanation": "Explicação:A acidificação dos oceanos, causada pelo aumento do CO₂ atmosférico dissolvido na água, reduz a disponibilidade de carbonato de cálcio, essencial para organismos como corais, moluscos e plâncton calcário. Isso prejudica cadeias alimentares inteiras e a resiliência dos ecossistemas marinhos."
+    },
+    {
+      "question": "Em relação à biologia da conservação, o que é uma “população viável mínima” (PVM)?",
+      "options": [
+        "O menor tamanho populacional que permite a sobrevivência e reprodução a longo prazo",
+        " O número mínimo de indivíduos para estabelecer uma nova população",
+        "A quantidade mínima de alimento para a população sobreviver"
+      ],
+      "answer": "O menor tamanho populacional que permite a sobrevivência e reprodução a longo prazo",
+      "points": 4,
+      "explanation": "Explicação:A população viável mínima (PVM) refere-se ao número mínimo de indivíduos de uma espécie que garantem a sua sobrevivência a longo prazo, evitando a extinção devido a fatores aleatórios (genéticos ou ambientais) e a outros desafios. O objetivo da avaliação da PVM é determinar a população necessária para garantir a persistência de uma espécie, considerando fatores como a genética, a demografia e o ambiente."
+    },
+    {
+      "question": "Por que espécies com ciclos de vida complexos, como anfíbios, são particularmente vulneráveis às mudanças ambientais?",
+      "options": [
+        "Porque possuem um único habitat específico",
+        "Porque dependem de ambientes aquáticos e terrestres em diferentes estágios da vida",
+        "Porque não possuem predadores naturais"
+      ],
+      "answer": "Porque dependem de ambientes aquáticos e terrestres em diferentes estágios da vida",
+      "points": 4,
+      "explanation": "Explicação:Espécies com ciclos de vida complexos, como os anfíbios, utilizam diferentes habitats em fases distintas da sua vida — por exemplo, ambientes aquáticos durante a fase larval e ambientes terrestres na fase adulta. Isso as torna especialmente vulneráveis, pois qualquer alteração em um desses ambientes pode comprometer um estágio essencial do seu desenvolvimento e ameaçar a sobrevivência da espécie."
+    },
+    {
+      "question": "Como a biologia do comportamento pode ser usada para melhorar programas de reprodução em cativeiro?",
+      "options": [
+        "Ignorando os comportamentos naturais dos animais",
+        "Considerando sinais sociais e necessidades comportamentais para aumentar o sucesso reprodutivo",
+        "Forçando acasalamentos entre indivíduos aleatórios"
+      ],
+      "answer": "Considerando sinais sociais e necessidades comportamentais para aumentar o sucesso reprodutivo",
+      "points": 4,
+      "explanation": "Explicação:Compreender o comportamento natural da espécie permite recriar em cativeiro condições ambientais e sociais semelhantes às do habitat original. Isso estimula comportamentos naturais, incluindo os relacionados ao acasalamento, aumentando as chances de reprodução. Além disso, ao respeitar os hábitos e interações sociais da espécie, os indivíduos desenvolvem competências que facilitam uma futura reintrodução na natureza e a formação de populações viáveis a longo prazo."
+    },
+    {
+      "question": "Por que razão o Ártico é considerado uma região crítica para o equilíbrio climático global?",
+      "options": [
+        "Porque contém muitos recursos minerais ainda por explorar",
+        "Porque influencia apenas os ecossistemas polares e não afeta outras regiões",
+        "Porque atua como regulador térmico global e o seu degelo acelera o aquecimento em todo o planeta"
+      ],
+      "answer": "Porque atua como regulador térmico global e o seu degelo acelera o aquecimento em todo o planeta",
+      "points": 4,
+      "explanation": "Explicação:O Ártico funciona como um “ar-condicionado” natural da Terra, refletindo grande parte da radiação solar através da neve e do gelo — um fenómeno chamado albedo. Com o degelo, menos luz solar é refletida e mais calor é absorvido pelos oceanos, o que acelera o aquecimento global. Além disso, o descongelamento do permafrost liberta grande quantidade de gases de efeito estufa, como metano e dióxido de carbono, agravando ainda mais o efeito estufa. O Ártico está interligado com os sistemas climáticos globais — o que acontece lá tem impacto direto em padrões meteorológicos, níveis do mar e estabilidade ecológica em todo o planeta."
+    }
+  ]
+}
